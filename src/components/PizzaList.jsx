@@ -16,7 +16,7 @@ const PizzaList = () => {
     {
       id: 2,
       name: "Бургер",
-      price: 445,
+      price: 160,
       image: "https://chefrestoran.ru/wp-content/uploads/2018/10/604655519.jpg",
       quantity: 0,
     },
